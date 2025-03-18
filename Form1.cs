@@ -6,5 +6,10 @@ namespace DemoGit
         {
             InitializeComponent();
         }
+
+        private void guna2Chip1_Click(object sender, EventArgs e)
+        {
+            guna2Chip1.BackColor = Color.Gray;
+        }
     }
 }
